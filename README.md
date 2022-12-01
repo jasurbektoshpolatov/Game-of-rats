@@ -5,5 +5,5 @@ I have done analyse of the data
 # Machine Learning
 I have used Logistic Regression for predict how many employees will leave from the company and how many employees stay
 # Conclusion
-I think, this company very well work and so many employees is going to stay to work
+I think, this company very well work and so many employees is going to stay to work,
 So don't worry
